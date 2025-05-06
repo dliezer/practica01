@@ -13,7 +13,7 @@ int main (void){
         cout << "Es impar \n";
     }
     else{
-        cout << "Es par \n";
+        cout << "No es impar \n";
     }
     
 return 0;
